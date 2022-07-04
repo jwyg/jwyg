@@ -1,4 +1,4 @@
-### 🐼 🌱 🏔 🏮 ✨
+# 🐼 🌱 🏔 🏮 ✨
 
 My work explores the role of digital data, digital methods and digital infrastructures in the composition of collective life.
 
